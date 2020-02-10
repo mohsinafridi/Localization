@@ -1,0 +1,12 @@
+
+{
+    "HOME": {
+      "TITLE": "Bonjour Angular avec ngx-translate !",
+      "SELECT": "Changer la langue"
+    },
+    "DESCRIPTION": {
+      "HEADER": "Localisation",
+      "DESCRIPTION": "Un exemple d'application utilisant ngx-tranlsate pour traduire l'application dans différentes langues."
+    }
+  }
+  
